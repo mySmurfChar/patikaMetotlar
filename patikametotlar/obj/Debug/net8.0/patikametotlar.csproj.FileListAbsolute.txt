@@ -1,0 +1,14 @@
+C:\işler\kelimeoop\patikametotlar\patikametotlar\bin\Debug\net8.0\patikametotlar.exe
+C:\işler\kelimeoop\patikametotlar\patikametotlar\bin\Debug\net8.0\patikametotlar.deps.json
+C:\işler\kelimeoop\patikametotlar\patikametotlar\bin\Debug\net8.0\patikametotlar.runtimeconfig.json
+C:\işler\kelimeoop\patikametotlar\patikametotlar\bin\Debug\net8.0\patikametotlar.dll
+C:\işler\kelimeoop\patikametotlar\patikametotlar\bin\Debug\net8.0\patikametotlar.pdb
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.AssemblyInfoInputs.cache
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.AssemblyInfo.cs
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.csproj.CoreCompileInputs.cache
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.dll
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\refint\patikametotlar.dll
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.pdb
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\patikametotlar.genruntimeconfig.cache
+C:\işler\kelimeoop\patikametotlar\patikametotlar\obj\Debug\net8.0\ref\patikametotlar.dll
